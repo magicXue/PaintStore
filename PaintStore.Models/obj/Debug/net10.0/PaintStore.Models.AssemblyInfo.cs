@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaintStore.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2b417894ce74bbbbfad61015cfccad5c3acc17a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12169edd84c49efbc81e6edb56cac699ea57f1c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaintStore.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaintStore.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
